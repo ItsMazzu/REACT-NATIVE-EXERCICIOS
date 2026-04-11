@@ -1,8 +1,5 @@
-Contém os exercícios:
-App 04: Alcool ou Gasolina
-App 08: Vagas de emprego de TI (com Scroll View)
-App 09: Vagas de emprego de TI (com Flat List)
-App 10: Formulário de abertura de conta bancária
+Repositório com os exercícios de React Native
+No momento, os exercícios numerados de 1 a 10 estão disponíveis por aqui
 
-Para testar, acessso o app: https://docs.expo.dev/get-started/installation/#expo-cli.
+Para testar, acessse o app: <a href="https://snack.expo.dev">Snack Expo Dev</a>
 
