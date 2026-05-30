@@ -11,7 +11,7 @@
   <ul>
     <li>Italo Mazzucatto: Exercícios 18, 19, 20, 23, 26 e 27</li>
     <li>Laís Campos: Exercícios 11 a 16</li>
-    <li>Nikoly Pereira:
+    <li>Nikoly Pereira:<br>
     <a href="https://snack.expo.dev/@nikoly_silva/48a60a">Exercício 17</a><br> 
     <a href="https://snack.expo.dev/@nikoly_silva/cb9ab6">Exercício 21</a><br>
     <a href="https://snack.expo.dev/@nikoly_silva/542476">Exercício 22</a><br>
